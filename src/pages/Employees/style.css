@@ -1,0 +1,20 @@
+th:hover {
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+/* .upArrow {
+    display: none;
+    position: relative;
+    left: 11px;
+    top: -13px;
+    width: 0; 
+    height: 0; 
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom:8px solid black;
+} */
+
+/* th:hover .upArrow {
+    display: inline-block
+} */
