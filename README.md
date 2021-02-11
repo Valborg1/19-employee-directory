@@ -4,6 +4,8 @@ This app allows the user to view, search, and sort an employee directory. All em
 
 The app uses React component to organize rendering.
 
+![main](./assets/ee_dir_example.png)
+
 Video Demo: https://youtu.be/Nr1SjwCwMGs
 
 Github Repository: https://github.com/Valborg1/19-employee-directory/tree/master
