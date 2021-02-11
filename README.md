@@ -8,4 +8,4 @@ Video Demo: https://youtu.be/Nr1SjwCwMGs
 
 Github Repository: https://github.com/Valborg1/19-employee-directory/tree/master
 
-Live Site: 
+Live Site: https://valborg1.github.io/19-employee-directory/
